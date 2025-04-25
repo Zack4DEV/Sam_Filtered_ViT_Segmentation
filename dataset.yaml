@@ -1,0 +1,5 @@
+
+train: "/content/drive/MyDrive/My files/Work/FREELANCE/DEV/Fiverr/Thomas - Trees Segmentation/Sam_Filtered_ViT_Segmentation/Images/"
+val: "/content/drive/MyDrive/My files/Work/FREELANCE/DEV/Fiverr/Thomas - Trees Segmentation/Sam_Filtered_ViT_Segmentation/Images/"
+names:
+  0: Trees
